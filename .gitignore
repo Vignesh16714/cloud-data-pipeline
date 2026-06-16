@@ -1,0 +1,12 @@
+.env
+*.env
+.env.*
+__pycache__/
+*.pyc
+.aws/
+credentials
+*.pem
+*.key
+venv/
+lambda_package/
+*.zip 
