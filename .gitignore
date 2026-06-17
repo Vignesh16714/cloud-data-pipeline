@@ -10,3 +10,5 @@ credentials
 venv/
 lambda_package/
 *.zip 
+pipeline.db
+venv/
